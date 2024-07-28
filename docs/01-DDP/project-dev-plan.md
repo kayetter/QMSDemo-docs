@@ -16,7 +16,7 @@ The project scope includes:
 
 - Implementation of ad hoc subsample management features.
 - Refactor of existing Default Results Entry custom control for the result entry worksheet to include subsampling feature.
-- Creation of an admin interface for configuring subsample settings.
+- Creation of an admin interface for configuring subsample settings to allow creation and deletion.
 - Ensuring all functionalities meet the specified requirements and acceptance criteria.
 
 ## 4. Deliverables
