@@ -21,7 +21,8 @@ The project scope includes:
 
 ## 4. Deliverables
 
-- Functional LIMS with ad hoc subsample management.
+
+- Functional LIMS with ad hoc subsample management on results entry.
 - Admin interface for configuring subsample settings.
 - Custom control on the result entry worksheet for adding and canceling subsamples.
 - Documentation for system configuration and user guides.
