@@ -1,4 +1,4 @@
-# Project Requirements
+# Product Requirements
 
 ## Epic 1: Ad Hoc Subsample Management
 
@@ -9,7 +9,8 @@ As a laboratory technician, I want the ability to add and manage subsamples ad h
 
 1. **Configure Ad Hoc Subsamples**
 
-   - **User Story**: As an admin, I want to configure the entity method to allow for ad hoc subsamples so that users can add subsamples to tests.
+   - **User Story**: User shall be able to add adhoc subsamples.
+     As an admin, I want to configure the entity method to allow for ad hoc subsamples so that users can add subsamples to tests.
    - **Acceptance Criteria**:
      - An admin interface to enable/disable ad hoc subsamples for specific entity methods.
      - Documentation on how to configure this setting.
