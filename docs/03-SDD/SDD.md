@@ -1,5 +1,7 @@
 # Detailed Design Specifications
 
+62304, Items deconstructs to base unit (feature, architecture app/microservices, function)
+
 ## Epic 1: Ad Hoc Subsample Management
 
 ### User Story 1: Configure Ad Hoc Subsamples
@@ -163,3 +165,7 @@
       - `repNumber`: The replication number.
       - `resultcodeIds`: The list of result code IDs.
     - **Returns**: A collection of Entity objects representing the results.
+
+## Related Issues
+
+https://dameranchdesigns.atlassian.net/browse/XU24-29
